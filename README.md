@@ -134,7 +134,8 @@ marketing-analytics-case-study
 ├── python/
 ├── powerbi/
 ├── data/
-├── presentation/
+├── csv/
+├── images/
 └── README.md
 ```
 
